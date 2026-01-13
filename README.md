@@ -1,11 +1,4 @@
----
-title: "Intro to Git + VS Code"
-bibliography: bibliography.bib 
-nocite: |
-    @*
-language:
-  section-title-references: "Resources"
----
+<title style=bold> Intro to Git</title>
 
 Wednesday, February 18, 2026 3:00 – 4:30pm 
 
