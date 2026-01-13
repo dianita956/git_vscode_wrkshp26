@@ -1,4 +1,4 @@
-# Intro to Git
+# Intro to Git and VS Code
 
 Wednesday, February 18, 2026 3:00 – 4:30pm 
 
