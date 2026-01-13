@@ -1,4 +1,4 @@
-<title style=bold> Intro to Git</title>
+# Intro to Git
 
 Wednesday, February 18, 2026 3:00 – 4:30pm 
 
