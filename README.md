@@ -19,7 +19,8 @@ In this workshop, you will learn how to start using Git, a version control syste
     - **staged** » modified file(s) ready for commit
     - **committed** » the file's snapshot is stored in the Git database
 
-
+4. Master, Main, Branches and Remotes oh my: 
+    - 
 
 ### Basic Terminal commands to know:
 1. To show current working directory:
@@ -28,7 +29,7 @@ In this workshop, you will learn how to start using Git, a version control syste
 2. `cd <directory>`: change to new working directory/folder
 3. `git init`: initiate Git repository
 
- 
+
 ---
 ## Resources
 
@@ -38,5 +39,4 @@ In this workshop, you will learn how to start using Git, a version control syste
 - [Git Cheat Sheet](https://git-scm.com/cheat-sheet)
 
 **Available Now at UTSA** 
-
 - [Vibe Coding with GitHub Copilot : Enhancing Productivity by Leveraging GitHub Copilot Inside Visual Studio.](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/k74a8h/alma9939412878204621)
