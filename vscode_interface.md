@@ -1,4 +1,4 @@
-## Overview of VS Code Interface 
+## Walk through of VS Code Interface 
 
 ![Screenshot of VS Code interface](screenshots/vs_code_gui.png) 
 
@@ -23,7 +23,7 @@ This is your navigation hub. Click these icons to change what appears in the sid
 
 ---
 
-### 3. **Editor Area** the big space in the middle
+### 2. **Editor Area** the big space in the middle
 
 This is where you write and edit your files. 
 
@@ -33,8 +33,8 @@ This is where you write and edit your files.
 - you can split the editor to see two files side-by-side. (view » editor layout or top right corner icons)
 
 ---
-### 4. **Terminal Panel**, the bottom section
+### 3. **Terminal Panel**, the bottom section
 
-Rem
+
 
 
