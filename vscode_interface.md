@@ -21,7 +21,6 @@ This is your navigation hub. Click these icons to change what appears in the sid
 - **Source Control**
 - **Extensions** 
 
----
 
 ### 2. **Editor Area** the big space in the middle
 
@@ -32,9 +31,48 @@ This is where you write and edit your files.
 - you can have multiple files open at once
 - you can split the editor to see two files side-by-side. (view » editor layout or top right corner icons)
 
----
 ### 3. **Terminal Panel**, the bottom section
 
+Remember those terminal commands from the creating a repository via terminal activity? You can run them right here too! 
 
+**how to open it:** 
+- menu: **Terminal » New Terminal**
 
+**Why use the integrated terminal?**
+- you don't have to switch between windows
+- it automatically opens in your project folder
+- you can see your code and terminal at the same time
+
+### 4. **Status Bar**
+
+This bar shows important information about your current file and project.
+
+#### **Left side of Status Bar:**
+- **Branch name** (example: `main` or `master`)
+    - this tells you which Git branch you are on
+    - click it to switch branches
+
+#### **Right Side of Status Bar:** 
+- Line and column number (where your cursor is)
+- Spaces or Tab settings
+- File encoding (usually UTF-8)
+- Language mode (Markdown, Javascript, Python, etc.)
+
+---
+
+## Source Control
+
+### **How to Open it:**
+1. Click the **Source Control icon** in the Activity Bar (left side bar)
+
+### **What you will see in Source Control view:**
+
+```
+Source Control
+|–– Message box(at the top)
+|–– ✓ Commit button (checkmark)
+|—— ...More options (three dots menu above the message box)
+|–– 📁 Changes (file you have modified)
+|   'M' mod
+```
 
