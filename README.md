@@ -21,7 +21,7 @@ In this workshop, you will learn how to start using Git, a version control syste
 
 4. Branches:
     - **main** or **master** - the default branch (the primary version of your project)
-    - **branch** branches are pointers to different parts of a project that allow an user to try or test code without affecting the main project branch. 
+    - **branch** branches are pointers to different parts of a project that allow a user to try or test code without affecting the main project branch. 
     - **remote** - a version of your repository hosted on GitHub
 
 

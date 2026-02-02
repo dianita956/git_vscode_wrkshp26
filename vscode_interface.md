@@ -202,3 +202,29 @@ Before moving on, make sure you can:
 ---
 
 
+## Common Questions & Troubleshooting
+
+### **"I can't see the Source Control icon!"**
+- Make sure you opened a **folder** (not just a file)
+- Go to: File → Open Folder
+- The folder needs to be a Git repository (or you need to initialize it)
+
+### **"Source Control says 'No Source Control Providers Registered'"**
+- Make sure Git is installed on your computer
+- Restart VS Code after installing Git
+- Check: Open Terminal and type `git --version`
+
+### **"I don't see any changes even though I edited a file"**
+- Did you save the file? (`Cmd+S` or `Ctrl+S`)
+- Is the folder initialized as a Git repository?
+- Try clicking the refresh icon in Source Control view
+
+### **"The asterisk won't go away!"**
+- You need to **commit** your changes (not just stage them)
+- Make sure you typed a commit message
+- Click the checkmark to commit
+
+### **"I accidentally staged the wrong file!"**
+- No problem! Click the **-** icon next to the file to unstage it
+- Your changes are safe - unstaging doesn't delete anything
+
