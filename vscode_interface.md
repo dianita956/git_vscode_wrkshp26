@@ -27,7 +27,7 @@ This is your navigation hub. Click these icons to change what appears in the sid
 This is where you write and edit your files. 
 
 **things to know:**
-- each file opesn in a **tab** at the top
+- each file opens in a **tab** at the top
 - you can have multiple files open at once
 - you can split the editor to see two files side-by-side. (view » editor layout or top right corner icons)
 
@@ -80,9 +80,9 @@ Source Control
 ```
 #### **Message Box**
 - Type your commit message here
-- same as: `git commit -m "your message"
+- same as: `git commit -m "your message"`
 
-#### *Changes Section**
+#### **Changes Section**
 - Shows files you've **modified** but not staged yet
 - Each file has a **+ icon** next to it
 - Clicking + = stages the file (same as `git add filename`)
@@ -151,7 +151,7 @@ You'll see your branch name (like `main`). Sometimes you'll see an **asterisk (*
 
 ## Terminal vs VS Code Visual Interface
 
-Remember the terminal commands from `activity_instructions.md`? Here's how they translate to VS Code:
+Remember the terminal commands from `repo_cmdline_activity_steps.md`? Here's how they translate to VS Code:
 
 | What You Want | Terminal Command | VS Code Action |
 |---------------|------------------|----------------|
