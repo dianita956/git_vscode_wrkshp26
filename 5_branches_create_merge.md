@@ -15,8 +15,7 @@
 3. Open **Source Control**, click on the **three dots (...)**
 4. Select **Branch → Merge Branch...**
 5. Select the **branch you want to merge** into the main branch
-6. The merge should now be completed
+6. Click "Sync Changes"
+7. The merge should now be completed
 
 **Note:** Make sure to commit all changes in your feature branch before switching and merging!
-
-testing
