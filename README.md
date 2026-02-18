@@ -5,6 +5,18 @@ Wednesday, February 18, 2026 3:00 – 4:30 pm
 
 In this workshop, you will learn how to start using Git, a version control system, to track and manage your code with VS Code, a code editor with built-in Git support. We will walk you through the basics of Git version control and provide hands-on experience setting up Git in VS Code. You will learn how to back up your projects, track changes, and share your code with others. No prior experience is necessary. 
 
+## Workshop Materials
+
+### Learning Sequence
+Follow these files in order:
+1. [Installing Git & VS Code](1_installing_git_vscode.md)
+2. [Command Line Activity](2_repo_cmdline_activity_steps.md)
+3. [VS Code Interface Guide](3_vscode_interface.md)
+4. [Creating Repositories in VS Code](4_repo_vscode_steps.md)
+
+### Presentation
+- [View Slides (PDF)](git_vscode_spring26_workshop.pdf) - Best for viewing on GitHub
+
 ### Terms to know:
 
 1. **directory** and **folder** are used interchangeably in Git and mean the same thing: a container for files and other folders. 

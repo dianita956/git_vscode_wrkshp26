@@ -3,3 +3,7 @@
 
 # PowerPoint temporary files
 ~$*.pptx
+*.pptx
+
+git_vscode_spring26_workshop.pptx
+~$git_vscode_spring26_workshop.pptx
