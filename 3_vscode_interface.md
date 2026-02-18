@@ -151,7 +151,7 @@ You'll see your branch name (like `main`). Sometimes you'll see an **asterisk (*
 
 ## Terminal vs VS Code Visual Interface
 
-Remember the terminal commands from `repo_cmdline_activity_steps.md`? Here's how they translate to VS Code:
+Remember the terminal commands from `2_repo_cmdline_activity_steps.md`? Here's how they translate to VS Code:
 
 | What You Want | Terminal Command | VS Code Action |
 |---------------|------------------|----------------|
